@@ -1,0 +1,8 @@
+{
+  "name": "Display Plug",
+  "description": "Easily turn on/off the second monitor",
+  "uuid": "willliam.dev@gmail.com",
+  "shell-version": [
+    "44"
+  ]
+}
